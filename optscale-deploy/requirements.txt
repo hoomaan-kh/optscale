@@ -1,4 +1,5 @@
-ansible==7.0.0
+ansible==10.3.0
 pyyaml==6.0.1
 kubernetes==10.0.1
 docker==3.0.1
+ansible-core==2.17.3
